@@ -44,8 +44,27 @@ I'm a passionate **Data Analyst** who loves transforming raw data into meaningfu
 
 ## 📊 Featured Projects
 
+### 🛒 [Black Friday Sales Analysis Dashboard](https://github.com/Kanaiya-rgb/blackfriday-sales-analysis-matplotlib)
+**Interactive Business Intelligence Dashboard | Streamlit + Plotly + Pandas**
+
+A comprehensive retail analytics dashboard that transforms static Matplotlib analysis into dynamic, interactive business insights for Black Friday sales data.
+
+**Key Features:**
+- 👥 **Customer Demographics**: Interactive gender and age group analysis
+- 💰 **Purchase Patterns**: Spending distribution with hover-able insights
+- 📊 **Product Performance**: Category-wise sales analysis and trends
+- 🏙️ **Geographic Analysis**: City tier performance comparison
+- 💼 **Occupation Insights**: Top spending professions identification
+- 📈 **Interactive Visualizations**: Plotly charts with real-time data exploration
+
+**Tech Stack:** `Python` `Streamlit` `Plotly` `Pandas` `Matplotlib` `Jupyter Notebook`
+
+🔗 **[Live Demo](https://blackfriday-sales-analysis-matplotlib-vbvwrzohxz8fmfyz3dt3d8.streamlit.app/)** | 📊 **[Source Code](https://github.com/Kanaiya-rgb/blackfriday-sales-analysis-matplotlib)**
+
+---
+
 ### 🥛 [Intelligent Milk Dashboard](https://github.com/Kanaiya-rgb/streamlit-milk-dashboard)
-**Interactive Analytics Dashboard | Streamlit + Plotly**
+**Personal Analytics Dashboard | Streamlit + Plotly**
 
 A comprehensive data analytics dashboard that tracks and analyzes daily consumption patterns with beautiful visualizations.
 
