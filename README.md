@@ -12,7 +12,7 @@ I'm a passionate **Data Analyst** who loves transforming raw data into meaningfu
 - 🌱 I'm learning **Advanced Analytics**, **Machine Learning**, and **Data Visualization**
 - 👯 I'm looking to collaborate on **Data Science Projects** and **Open Source Analytics Tools**
 - 💬 Ask me about **Python**, **Data Analysis**, **Streamlit**, and **Dashboard Development**
-- 📫 How to reach me: **[Your Email]** | **[LinkedIn Profile]**
+- 📫 How to reach me: **kanaiyasoni688@gmail.com** | **https://www.linkedin.com/in/kanaiya-soni-1992004k/**
 - ⚡ Fun fact: I believe every dataset has a story to tell! 📊
 
 ## 🛠️ Tech Stack & Tools
@@ -139,8 +139,8 @@ class DataAnalyst:
 - **Storytelling**: Presenting data insights in compelling narratives
 
 ### 💻 **Technical Skills**
-- **Python Ecosystem**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
-- **Web Development**: HTML/CSS, JavaScript, Streamlit framework
+- **Python Ecosystem**: Pandas, NumPy, Matplotlib, Plotly
+- **Web Development**: HTML/CSS, Streamlit framework
 - **Data Sources**: APIs, CSV, Google Sheets, databases
 - **Version Control**: Git workflows and collaborative development
 
