@@ -12,7 +12,7 @@ I'm a passionate **Data Analyst** who loves transforming raw data into meaningfu
 - 🌱 I'm learning **Advanced Analytics**, **Machine Learning**, and **Data Visualization**
 - 👯 I'm looking to collaborate on **Data Science Projects** and **Open Source Analytics Tools**
 - 💬 Ask me about **Python**, **Data Analysis**, **Streamlit**, and **Dashboard Development**
-- 📫 How to reach me: **kanaiyasoni688@gmail.com** | **https://www.linkedin.com/in/kanaiya-soni-1992004k/**
+- 📫 How to reach me: **[Your Email]** | **[LinkedIn Profile]**
 - ⚡ Fun fact: I believe every dataset has a story to tell! 📊
 
 ## 🛠️ Tech Stack & Tools
@@ -20,12 +20,14 @@ I'm a passionate **Data Analyst** who loves transforming raw data into meaningfu
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Web Development & Deployment
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -34,6 +36,7 @@ I'm a passionate **Data Analyst** who loves transforming raw data into meaningfu
 
 ### Data Sources & APIs
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
 ![CSV](https://img.shields.io/badge/CSV-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Tools & Platforms
@@ -93,35 +96,43 @@ A comprehensive data analytics dashboard that tracks and analyzes daily consumpt
 
 ## 🎯 Current Focus Areas
 
-```python
-class DataAnalyst:
-    def __init__(self):
-        self.name = "Kanaiya"
-        self.role = "Aspiring Data Analyst"
-        self.current_focus = [
-            "Advanced Data Visualization",
-            "Statistical Analysis & Modeling", 
-            "Machine Learning Fundamentals",
-            "Business Intelligence Tools",
-            "Real-time Dashboard Development"
-        ]
-        
-    def daily_routine(self):
-        return [
-            "📊 Analyze datasets and find insights",
-            "🔍 Learn new data analysis techniques", 
-            "💻 Build interactive dashboards",
-            "📈 Practice statistical modeling",
-            "🤝 Collaborate on data projects"
-        ]
-        
-    def goals_2024(self):
-        return {
-            "technical": "Master advanced analytics tools",
-            "projects": "Build 5+ data science projects", 
-            "learning": "Complete data science certifications",
-            "community": "Contribute to open-source analytics tools"
-        }
+<div align="center">
+
+### 📚 **Learning Path 2024**
+
+| 🎯 **Focus Area** | 📈 **Progress** | 🎯 **Target** | 🗓️ **Timeline** |
+|------------------|----------------|---------------|-----------------|
+| 📊 Advanced Data Visualization | 🟩🟩🟩⬜⬜ | Master Plotly & Seaborn | Q1 2024 |
+| 🤖 Machine Learning Fundamentals | 🟩🟩⬜⬜⬜ | Complete ML Course | Q2 2024 |
+| 💼 Business Intelligence Tools | 🟩⬜⬜⬜⬜ | Learn Tableau/Power BI | Q3 2024 |
+| ⚡ Real-time Dashboard Building | 🟩🟩🟩🟩⬜ | 5+ Live Projects | Q4 2024 |
+| 📈 Statistical Analysis & Modeling | 🟩🟩🟩⬜⬜ | Advanced Statistics | Ongoing |
+
+</div>
+
+### 🔥 **Daily Routine**
+- 📊 **Morning**: Analyze datasets and find insights
+- 🔍 **Afternoon**: Learn new data analysis techniques  
+- 💻 **Evening**: Build interactive dashboards
+- 📈 **Night**: Practice statistical modeling
+- 🤝 **Weekend**: Collaborate on data projects
+
+### 🎯 **2024 Goals**
+```
+🎯 Technical Goals:
+   ✅ Master Python data stack (Pandas, NumPy, Plotly)
+   🔄 Learn advanced analytics tools
+   📋 Complete 3+ data science certifications
+   
+🚀 Project Goals:
+   ✅ Build 1 live dashboard (Milk Analytics ✓)
+   🔄 Create 4+ more data projects
+   📋 Contribute to open-source analytics tools
+   
+📚 Learning Goals:
+   🔄 Complete Google Data Analytics Certificate
+   📋 Finish Machine Learning Specialization
+   📋 Master SQL for Data Science
 ```
 
 ## 🌟 Core Competencies
@@ -139,8 +150,8 @@ class DataAnalyst:
 - **Storytelling**: Presenting data insights in compelling narratives
 
 ### 💻 **Technical Skills**
-- **Python Ecosystem**: Pandas, NumPy, Matplotlib, Plotly
-- **Web Development**: HTML/CSS, Streamlit framework
+- **Python Ecosystem**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Web Development**: HTML/CSS, JavaScript, Streamlit framework
 - **Data Sources**: APIs, CSV, Google Sheets, databases
 - **Version Control**: Git workflows and collaborative development
 
@@ -167,10 +178,11 @@ class DataAnalyst:
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanaiya-soni-1992004k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kanaiya-rgb)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanaiyasoni688@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://app-milk-dashboard.streamlit.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 
 </div>
 
