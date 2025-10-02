@@ -147,8 +147,8 @@ A comprehensive data analytics dashboard that tracks and analyzes daily consumpt
 - **Storytelling**: Presenting data insights in compelling narratives
 
 ### 💻 **Technical Skills**
-- **Python Ecosystem**: Pandas, NumPy, Matplotlib, Plotly
-- **Web Development**: HTML/CSS, Streamlit framework
+- **Python Ecosystem**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Web Development**: HTML/CSS, JavaScript, Streamlit framework
 - **Data Sources**: APIs, CSV, Google Sheets, databases
 - **Version Control**: Git workflows and collaborative development
 
