@@ -1,63 +1,69 @@
 # Hi there, I'm Kanaiya! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Python+Developer;Turning+Data+into+Insights;Building+Interactive+Dashboards;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Android+Developer+%7C+Kotlin+%26+Compose;Data+Analyst+%7C+Python+Developer;Creator+of+Dhvani+Music;Always+Building+%26+Learning" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Data Analyst** who loves transforming raw data into meaningful insights and beautiful visualizations. Currently building my expertise in data science and analytics through hands-on projects and continuous learning.
+I'm a passionate **Software & Android Developer** and **Data Analyst** who loves building high-performance applications and turning data into actionable insights. Currently crafting modern native Android apps and interactive analytics tools.
 
-- 🔭 I'm currently working on **Interactive Data Dashboards** using Streamlit
-- 🌱 I'm learning **Advanced Analytics**, **Machine Learning**, and **Data Visualization**
-- 👯 I'm looking to collaborate on **Data Science Projects** and **Open Source Analytics Tools**
-- 💬 Ask me about **Python**, **Data Analysis**, **Streamlit**, and **Dashboard Development**
-- 📫 How to reach me: **kanaiyasoni688@gmail.com** | **https://www.linkedin.com/in/kanaiya-soni-1992004k**
-- ⚡ Fun fact: I believe every dataset has a story to tell! 📊
+- 🎵 Creator of **[Dhvani Music](https://github.com/Kanaiya-rgb/Dhvani-Music)** — An aesthetic Indian & global open-source Android music client
+- 🔭 Working on **Native Android (Jetpack Compose & Media3)** & **Interactive Dashboards (Streamlit)**
+- 🌱 Exploring **Audio Engineering (DSP/ExoPlayer)** and **Advanced Machine Learning**
+- 💬 Ask me about **Android Development**, **Kotlin**, **Python**, and **Data Analysis**
+- 📫 Connect with me: **kanaiyasoni688@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/kanaiya-soni-1992004k)**
+- ⚡ Fun fact: I love discovering hidden patterns in music and data alike! 📊🎶
+
+---
 
 ## 🛠️ Tech Stack & Tools
 
-### Programming Languages
+### Mobile & Core Engineering
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Material 3](https://img.shields.io/badge/Material_3-E879F9?style=for-the-badge&logo=google&logoColor=white)
+![Media3 ExoPlayer](https://img.shields.io/badge/Media3_ExoPlayer-E65100?style=for-the-badge&logo=googleplay&logoColor=white)
+
+### Data Science & Python
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-
-### Web Development & Deployment
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Data Sources & APIs
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![CSV](https://img.shields.io/badge/CSV-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### Tools & Platforms
+### Tools & Ecosystem
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 Featured Projects
+---
+
+## 🌟 Featured Projects
+
+### 🎵 [Dhvani Music](https://github.com/Kanaiya-rgb/Dhvani-Music)
+**Flagship Android Music Client | Kotlin + Jetpack Compose + Media3**
+
+An elegant, open-source Android music streaming client integrating YouTube Music, Hi-Res Lossless Audio, and Indian Cultural Heritage (Utsav Mode & Raags) wrapped in a Liquid Frosted-Glass Material 3 aesthetic.
+
+**Key Features:**
+- 🎧 **Hi-Res Lossless & YouTube Music Catalog**: Stream audiophile-grade FLAC/ALAC & zero-ad YouTube music
+- ⚡ **12+ Kinetic Text-Effects Lyrics**: Shaders, fluid physics, CRT phosphor bloom, and neon effects
+- 🪟 **Material 3 & Frosted Glass UI**: Dynamic palette extraction from artwork & real-time blur
+- 🎚️ **Automix & DSP Engine**: Native C++ beat-matching transitions & parametric equalizer
+- 💾 **Offline Downloads & Local Player**: Embedded high-res artwork, tags, and local file playback
+
+🔗 **[Latest APK Release](https://github.com/Kanaiya-rgb/Dhvani-Music/releases/latest)** | 📦 **[Source Code](https://github.com/Kanaiya-rgb/Dhvani-Music)**
+
+---
 
 ### 🛒 [Black Friday Sales Analysis Dashboard](https://github.com/Kanaiya-rgb/blackfriday-sales-analysis-matplotlib)
 **Interactive Business Intelligence Dashboard | Streamlit + Plotly + Pandas**
 
-A comprehensive retail analytics dashboard that transforms static Matplotlib analysis into dynamic, interactive business insights for Black Friday sales data.
-
-**Key Features:**
-- 👥 **Customer Demographics**: Interactive gender and age group analysis
-- 💰 **Purchase Patterns**: Spending distribution with hover-able insights
-- 📊 **Product Performance**: Category-wise sales analysis and trends
-- 🏙️ **Geographic Analysis**: City tier performance comparison
-- 💼 **Occupation Insights**: Top spending professions identification
-- 📈 **Interactive Visualizations**: Plotly charts with real-time data exploration
-
-**Tech Stack:** `Python` `Streamlit` `Plotly` `Pandas` `Matplotlib` `Jupyter Notebook`
+Comprehensive retail analytics dashboard that transforms static analysis into interactive business insights for Black Friday sales data.
 
 🔗 **[Live Demo](https://blackfriday-sales-analysis-matplotlib-vbvwrzohxz8fmfyz3dt3d8.streamlit.app/)** | 📊 **[Source Code](https://github.com/Kanaiya-rgb/blackfriday-sales-analysis-matplotlib)**
 
@@ -66,28 +72,11 @@ A comprehensive retail analytics dashboard that transforms static Matplotlib ana
 ### 🥛 [Intelligent Milk Dashboard](https://github.com/Kanaiya-rgb/streamlit-milk-dashboard)
 **Personal Analytics Dashboard | Streamlit + Plotly**
 
-A comprehensive data analytics dashboard that tracks and analyzes daily consumption patterns with beautiful visualizations.
-
-**Key Features:**
-- 📈 **Real-time Analytics**: Interactive charts and KPI metrics
-- 🔥 **Streak Tracking**: Advanced pattern recognition algorithms
-- 💰 **Cost Analysis**: Automated financial calculations and forecasting
-- 📅 **Calendar Heatmaps**: Visual consumption pattern analysis
-- 🌙 **Theme Support**: Dark/Light mode with responsive design
-
-**Tech Stack:** `Python` `Streamlit` `Pandas` `Plotly` `Google Sheets API`
+Comprehensive data analytics dashboard tracking daily consumption patterns with heatmap visualizations, streak tracking, and financial forecasting.
 
 🔗 **[Live Demo](https://app-milk-dashboard.streamlit.app/)** | 📊 **[Source Code](https://github.com/Kanaiya-rgb/streamlit-milk-dashboard)**
 
 ---
-
-### 📈 Data Analysis Skills Demonstrated:
-- **Data Cleaning & Processing**: Automated data preprocessing pipelines
-- **Statistical Analysis**: Trend analysis, forecasting, and pattern recognition  
-- **Interactive Visualizations**: Heatmaps, time series, pie charts, bar charts
-- **KPI Development**: Custom metrics and performance indicators
-- **Dashboard Design**: User-friendly interfaces with filtering capabilities
-- **API Integration**: Real-time data fetching from external sources
 
 ## 📈 GitHub Analytics
 
@@ -105,90 +94,7 @@ A comprehensive data analytics dashboard that tracks and analyzes daily consumpt
   <img src="https://github-profile-trophy.vercel.app/?username=Kanaiya-rgb&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
 </div>
 
-## 📊 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanaiya-rgb&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-</div>
-
-## 🎯 Current Focus Areas
-
-<div align="center">
-
-### 📚 **Learning Path**
-
-| 🎯 **Focus Area** | 📈 **Progress** | 🎯 **Target** |
-|------------------|----------------|---------------|
-| 📊 Advanced Data Visualization | 🟩🟩🟩⬜⬜ | Master Plotly & Seaborn |
-| 🤖 Machine Learning Fundamentals | 🟩🟩⬜⬜⬜ | Complete ML Course |
-| 💼 Business Intelligence Tools | 🟩⬜⬜⬜⬜ | Learn Tableau/Power BI |
-| ⚡ Real-time Dashboard Building | 🟩🟩🟩🟩⬜ | 5+ Live Projects |
-| 📈 Statistical Analysis & Modeling | 🟩🟩🟩⬜⬜ | Advanced Statistics |
-
-</div>
-
-### 🔥 **Daily Routine**
-- 📊 **Morning**: Analyze datasets and find insights
-- 🔍 **Afternoon**: Learn new data analysis techniques  
-- 💻 **Evening**: Build interactive dashboards
-- 📈 **Night**: Practice statistical modeling
-- 🤝 **Weekend**: Collaborate on data projects
-
-### 🎯 **Goals**
-```
-🎯 Technical Goals:
-   ✅ Master Python data stack (Pandas, NumPy, Plotly)
-   🔄 Learn advanced analytics tools
-   📋 Complete 3+ data science certifications
-   
-🚀 Project Goals:
-   ✅ Build 1 live dashboard (Milk Analytics ✓)
-   🔄 Create 4+ more data projects
-   📋 Contribute to open-source analytics tools
-   
-📚 Learning Goals:
-   🔄 Complete Google Data Analytics Certificate
-   📋 Finish Machine Learning Specialization
-   📋 Master SQL for Data Science
-```
-
-## 🌟 Core Competencies
-
-### 📊 **Data Analysis**
-- **Data Cleaning**: Handling missing values, outliers, and data inconsistencies
-- **Exploratory Data Analysis**: Statistical summaries and pattern identification
-- **Time Series Analysis**: Trend analysis, seasonality detection, forecasting
-- **Statistical Modeling**: Descriptive and inferential statistics
-
-### 📈 **Data Visualization** 
-- **Interactive Dashboards**: Streamlit, Plotly, and custom web interfaces
-- **Chart Types**: Heatmaps, time series, scatter plots, bar charts, pie charts
-- **Design Principles**: Color theory, responsive design, user experience
-- **Storytelling**: Presenting data insights in compelling narratives
-
-### 💻 **Technical Skills**
-- **Python Ecosystem**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
-- **Web Development**: HTML/CSS, JavaScript, Streamlit framework
-- **Data Sources**: APIs, CSV, Google Sheets, databases
-- **Version Control**: Git workflows and collaborative development
-
-## 📚 Learning Journey
-
-### 📖 **Currently Reading**
-- "Python for Data Analysis" by Wes McKinney
-- "Storytelling with Data" by Cole Nussbaumer Knaflic
-- "The Art of Statistics" by David Spiegelhalter
-
-### 🎓 **Courses & Certifications** (In Progress)
-- [ ] Google Data Analytics Professional Certificate
-- [ ] Python for Data Science (Coursera)
-- [ ] Advanced SQL for Data Scientists
-- [ ] Machine Learning Fundamentals
-
-### 🔬 **Practice Areas**
-- **Kaggle Competitions**: Participating in data science challenges
-- **Personal Projects**: Building real-world analytics solutions
-- **Open Source**: Contributing to data analysis libraries
-- **Community**: Sharing knowledge through blog posts and tutorials
+---
 
 ## 🤝 Let's Connect!
 
@@ -197,30 +103,13 @@ A comprehensive data analytics dashboard that tracks and analyzes daily consumpt
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanaiya-soni-1992004k)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kanaiya-rgb)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanaiyasoni688@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://app-milk-dashboard.streamlit.app/)
 
 </div>
-
-## 💡 Fun Facts
-
-- 🎯 I love finding patterns in everyday data - from milk consumption to weather trends!
-- 🌱 Always experimenting with new visualization techniques and chart types
-- 🤖 Fascinated by how data can predict future trends and behaviors
-- 📊 My favorite chart type changes every week (currently obsessed with heatmaps!)
-- ☕ I analyze my coffee consumption data more than I should admit
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kanaiya-rgb&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   
-  **"Data is the new oil, but insights are the refined fuel that powers decisions!"** 🚀
-  
   ⭐ **Star my repositories if you find them helpful!** ⭐
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
